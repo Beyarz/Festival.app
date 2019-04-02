@@ -1,6 +1,4 @@
-<img src="cover.png" height="160%" width="48%" />
-
-Festival is an application built for macOS only.
+<img src="cover.png" height="160%" width="50%" /> Festival is an application built for macOS only.
 It is heavily inspired by Partytime.
 My goal was the create a similar app that would have the same purpose but with my own touch to it.
 Of course I could just contribute to their project but I wouldn't learn that much from it,
